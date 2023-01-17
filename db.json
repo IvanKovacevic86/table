@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "fullName": "Jenny Chan",
+      "address": "3 waterfoot road",
+      "phoneNumber": "333-962-7516",
+      "email": "jenny.chan@email.com",
+      "id": 1
+    },
+    {
+      "fullName": "Jessica Warren",
+      "address": "4 tall town",
+      "phoneNumber": "011-211-7516",
+      "email": "jessica.warren@email.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "address": "11 lesly road",
+      "phoneNumber": "788-962-7516",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "address": "333 miltown manor",
+      "phoneNumber": "011-962-111",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "fullName": "Raymond Edwards",
+      "address": "99 blue acres",
+      "phoneNumber": "3231-962-7516",
+      "email": "raymond.edwards@email.com",
+      "id": 5
+    },
+    {
+      "fullName": "Bill Edwards",
+      "address": "99 blue acres",
+      "phoneNumber": "3231-962-7516",
+      "email": "bill.edwards@email.com",
+      "id": 6
+    },
+    {
+      "fullName": "kole",
+      "address": "ererer",
+      "phoneNumber": "3001-902-7506",
+      "email": "nmiljkovic89@gmail.com",
+      "id": "7"
+    },
+    {
+      "fullName": "Jenny Channnnn",
+      "address": "Tabacka",
+      "phoneNumber": "3990-962-7516",
+      "email": "nemanja.miljkovic@badin.rs",
+      "id": "8"
+    },
+    {
+      "fullName": "Neca Hemija",
+      "address": "Nemanjina",
+      "phoneNumber": "3788-962-7216",
+      "email": "test@gmail.com",
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "fullName": "Aca + Peka",
+      "address": "Partizanska",
+      "phoneNumber": "3000-992-7511",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "11",
+      "fullName": "Ivan Kovacevic",
+      "address": "Veljka Vlahovica",
+      "phoneNumber": "3233-162-9516",
+      "email": "kocha_po@yahoo.com"
+    }
+  ]
+}
